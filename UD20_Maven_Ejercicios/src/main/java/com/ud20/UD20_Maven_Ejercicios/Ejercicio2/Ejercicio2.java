@@ -6,6 +6,10 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 
 public class Ejercicio2 extends JFrame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JLabel etiqueta;
 	private JButton boton1, boton2;
 	private JPanel panel;

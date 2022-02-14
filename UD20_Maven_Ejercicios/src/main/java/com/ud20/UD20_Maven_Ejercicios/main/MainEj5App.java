@@ -1,7 +1,5 @@
 package com.ud20.UD20_Maven_Ejercicios.main;
 
-import java.awt.EventQueue;
-
 import com.ud20.UD20_Maven_Ejercicios.Ejercicio5.Ejercicio5;
 
 public class MainEj5App {

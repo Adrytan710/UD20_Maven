@@ -4,6 +4,10 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class Ejercicio5 extends JFrame {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private JTextArea areaTxt;
 	 
 	public Ejercicio5() {
