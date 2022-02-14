@@ -9,7 +9,7 @@ public class Ejercicio2 extends JFrame {
 	private JLabel etiqueta;
 	private JButton boton1, boton2;
 	private JPanel panel;
-	
+	 
 	public Ejercicio2() {
 		etiqueta = new JLabel("No se ha pulsado ningún botón");
 		boton1 = new JButton("Botón 1");
